@@ -1,0 +1,23 @@
+.btn-green{
+    color: #fff;
+    background-color: #20B2AA;
+}
+
+.btn-green:hover{
+    color: #fff;
+    background-color: #008B8B;
+}
+
+.btn-coral{
+    color: #000;
+    background-color: #FC766A;
+}
+
+.btn-coral:hover{
+    color: #000;
+    background-color: #c45a51;
+}
+
+.bg-coral{
+    background-color: #FFCC99;
+}
