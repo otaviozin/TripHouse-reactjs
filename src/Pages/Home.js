@@ -16,7 +16,7 @@ function Home(){
                         </div>
                         <div className="col-md-12">
                             <h2>Conheça nossa plataforma</h2>
-                            <a className="btn btn-green mt-3" href="TripHouse/#about">Sobre nós</a>
+                            <a className="btn btn-green mt-3" href="#about">Sobre nós</a>
                         </div>
                     </div>
                 </section>
@@ -27,7 +27,7 @@ function Home(){
                     <h1>Trip House</h1>  
                     <p className="mx-5 my-3">Somos uma empresa locadora de pousadas e casas para você e sua família viajarem com o maior conhtmlForto possível. Queremos sempre o conhtmlForto de nossos hóspedes, então solicitamos uma revisão no local assim que outra pessoa termina sua temporada, garantindo a sua segurança e evitando dores de cabeça no meio da sua viagem.</p>
                     <p className="mx-5">Para que tenhamos controle das avaliações e dos locais, solicitamos o nome, endereço e CPF da pessoa que irá alugar. Assim evitamos que pessoas não reais façam o uso inapropriado ou avaliem de htmlForma negativa algum imóvel.</p>
-                    <a className="btn btn-coral" href="TripHouse/rent">Veja nossos imóveis</a>
+                    <a className="btn btn-coral" href="/rent">Veja nossos imóveis</a>
                 </div>
             </section>
 

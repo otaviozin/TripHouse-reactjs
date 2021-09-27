@@ -12,7 +12,7 @@ function Success(){
                     <div className="row d-flex justify-content-center text-center">
                         <h2>Tudo certo!</h2>
                         <p>Entraremos em contato com você em breve. Fique de olho no seu email e WhatsApp.</p>
-                        <a className="btn btn-light w-50" href="TripHouse/">Voltar ao início</a>
+                        <a className="btn btn-light w-50" href="/">Voltar ao início</a>
                     </div>
                 </div>
             </div>
