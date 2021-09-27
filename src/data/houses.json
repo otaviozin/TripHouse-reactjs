@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Casa na praia",
+        "description": "Casa beira mar, confortável",
+        "image": "https://blog.proprietariodireto.com.br/wp-content/uploads/2014/07/casa-na-praia-1024x512.jpg",
+        "bedrooms": 2,
+        "price": 250.00
+    },
+    {
+        "id": 2,
+        "name": "Casa na praia",
+        "description": "Lugar grande. Comporta muitas pessoas",
+        "image": "https://blog.proprietariodireto.com.br/wp-content/uploads/2016/01/casa-de-praia-600x300.jpg",
+        "bedrooms": 3,
+        "price": 350.00
+    },
+    {
+        "id": 3,
+        "name": "Pousada",
+        "description": "Pousada beira mar. Café da manhã e almoço inclusos",
+        "image": "https://s2.glbimg.com/ulqlv4AMKzTknUujSFXc0aGKQXI=/smart/e.glbimg.com/og/ed/f/original/2019/10/15/decoracao-casa-de-praia-8.jpg",
+        "bedrooms": 1,
+        "price": 150.00
+    },
+    {
+        "id": 4,
+        "name": "Casa na praia",
+        "description": "Há 80 metros da praia. Confortável",
+        "image": "https://images.adsttc.com/media/images/5d4d/f834/284d/d1d5/e200/02dd/large_jpg/FEATURED_IMAGE.jpg?1565390873",
+        "bedrooms": 3,
+        "price": 300.00
+    },
+    {
+        "id": 5,
+        "name": "Casa na praia",
+        "description": "Vista da praia. Ideal para casal.",
+        "image": "https://viagemeturismo.abril.com.br/wp-content/uploads/2020/09/casas-airbnb-praia-perto-de-sao-paulo.jpg?quality=70&strip=info",
+        "bedrooms": 1,
+        "price": 150.00
+    },
+    {
+        "id": 6,
+        "name": "Casa na praia",
+        "description": "Possui piscina e área para churrasco",
+        "image": "https://www.dicasdeviagem.com/wp-content/uploads/2021/02/casa-das-piscinas-airbnb-praia-do-forte.jpg",
+        "bedrooms": 2,
+        "price": 250.00
+    }
+]

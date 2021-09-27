@@ -21,3 +21,22 @@
 .bg-coral{
     background-color: #FFCC99;
 }
+
+.bg-img{
+    background:linear-gradient( rgba(0, 0, 0, 0.3) 100%, rgba(0, 0, 0, 0.5)100%),url("./Assets/home-bg.jpg");
+}
+
+.card-width{
+    width: 18rem;
+}
+
+.card-img-cover{
+    width: 18rem;
+    height: 180px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.btn-width{
+    width: 50%;
+}
