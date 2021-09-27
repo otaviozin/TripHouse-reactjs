@@ -13,9 +13,9 @@ function Navbar(props){
                 </button>
                 <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div className="navbar-nav ms-auto">
-                        <a className={ClassName + props.about} href="/#about">Sobre</a>
-                        <a className={ClassName + props.contact} href="/#contact">Contato</a>
-                        <a className={ClassName + props.rent} href="/rent">Alugar</a>
+                        <a className={ClassName + props.about} href="TripHouse/#about">Sobre</a>
+                        <a className={ClassName + props.contact} href="TripHouse/#contact">Contato</a>
+                        <a className={ClassName + props.rent} href="TripHouse/rent">Alugar</a>
                     </div>
                 </div>
             </div>
