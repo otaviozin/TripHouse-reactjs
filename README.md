@@ -2,15 +2,15 @@
 TripHouse é um site de hospedagem para casas ou pousadas, para pessoas que querem passar apenas uma temporada na praia ou em qualquer outro lugar.
 
 # Desenvolvimento
-O site ainda está sendo desenvolvido, faltando a página para ver os imóveis e integração com api (se houver).
+O site está completo, mas pode ser que futuramente tenha atualizações.
 
 # Tecnologias
 Feito com React.js e Bootstrap.
 
-# Atualizações futuras
+# Atualizações
 - Página para procurar os imóveis.
-- Integração com api de casas e pousadas (TripAdvisor e Airbnb se houver).
-- Melhorias de otimização e design;
+- Integração com arquivo .json para obter os dados dos imóveis (simulando api).
+- Melhorias no design e responsividade
 
 # Desenvolvedor
-Você pode me seguir no [Twitter](https://twitter.com/_otaviozin) ou aqui mesmo no Github
+Você pode me apoiar seguindo no [Twitter](https://twitter.com/_otaviozin) ou aqui mesmo no Github :)
