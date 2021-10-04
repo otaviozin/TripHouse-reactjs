@@ -13,8 +13,8 @@ function RentCard(){
                         <div className="card-body">
                             <h5 className="card-title">{houses.name}</h5>
                             <p className="card-text">{houses.description}</p>
-                            <p><span class="badge bg-coral text-dark">Quartos: {houses.bedrooms}</span></p>
-                            <p><span class="badge bg-coral text-dark">Diária: R${houses.price}</span></p>
+                            <p><span className="badge bg-coral text-dark">Quartos: {houses.bedrooms}</span></p>
+                            <p><span className="badge bg-coral text-dark">Diária: R${houses.price}</span></p>
                             <a href="/success" className="btn btn-green">Alugar</a>
                         </div>
                     </div>
