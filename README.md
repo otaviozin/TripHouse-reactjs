@@ -1,6 +1,8 @@
 # Resumo
 TripHouse é um site de hospedagem para casas ou pousadas, para pessoas que querem passar apenas uma temporada na praia ou em qualquer outro lugar.
 
+Você pode usar clicando neste [link](https://615b0d1e57752020685f2ecc--triphouse.netlify.app).
+
 # Desenvolvimento
 O site está completo, mas pode ser que futuramente tenha atualizações.
 
