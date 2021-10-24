@@ -1,7 +1,7 @@
 # Resumo
 TripHouse é um site de hospedagem para casas ou pousadas, para pessoas que querem passar apenas uma temporada na praia ou em qualquer outro lugar.
 
-Você pode usar clicando neste [link](https://615b0d1e57752020685f2ecc--triphouse.netlify.app).
+Você pode usar clicando neste [link](https://otavio-triphouse.netlify.app).
 
 # Desenvolvimento
 O site está completo, mas pode ser que futuramente tenha atualizações.
@@ -15,4 +15,4 @@ Feito com React.js e Bootstrap.
 - Melhorias no design e responsividade
 
 # Desenvolvedor
-Você pode me apoiar seguindo no [Twitter](https://twitter.com/_otaviozin) ou aqui mesmo no Github :)
+Você pode me apoiar seguindo no [Twitter](https://twitter.com/_otaviozin) ou aqui mesmo no [GitHub](https://github.com/otaviozin) :)
