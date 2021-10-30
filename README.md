@@ -16,3 +16,7 @@ Feito com React.js e Bootstrap.
 
 # Desenvolvedor
 Você pode me apoiar seguindo no [Twitter](https://twitter.com/_otaviozin) ou aqui mesmo no [GitHub](https://github.com/otaviozin) :)
+
+# Informações úteis
+https://img.shields.io/github/license/otaviozin/TripHouse-reactjs?style=flat-square
+Você pode usar este projeto, desde que dê os devidos créditos :D
