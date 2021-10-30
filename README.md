@@ -1,3 +1,5 @@
+![Licença](https://img.shields.io/github/license/otaviozin/TripHouse-reactjs?style=flat-square)
+
 # Resumo
 TripHouse é um site de hospedagem para casas ou pousadas, para pessoas que querem passar apenas uma temporada na praia ou em qualquer outro lugar.
 
@@ -16,8 +18,3 @@ Feito com React.js e Bootstrap.
 
 # Desenvolvedor
 Você pode me apoiar seguindo no [Twitter](https://twitter.com/_otaviozin) ou aqui mesmo no [GitHub](https://github.com/otaviozin) :)
-
-# Informações úteis
-![Licença](https://img.shields.io/github/license/otaviozin/TripHouse-reactjs?style=flat-square)
-
-Você pode usar este projeto, desde que dê os devidos créditos :D
